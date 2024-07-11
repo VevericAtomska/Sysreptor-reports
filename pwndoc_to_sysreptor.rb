@@ -24,7 +24,7 @@ end
 LANG_MAP = {
   'en' => 0,
   'fr' => 1,
-  'es' => 2,  # Example for adding more languages
+  'es' => 2,
   'de' => 3
 }.freeze
 
